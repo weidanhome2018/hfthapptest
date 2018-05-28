@@ -1,0 +1,21 @@
+---- Is4GVliad Matches (22 in 4 files) ----
+Bdgpsdec.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):		if(Is4GVliad == 1)
+Bdgpsdec.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):			printf("Is4GVliad == 1\n");
+Bdgpsdec.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):		else if(Is4GVliad == 0 && mid == 0)
+Bdgpsdec.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):			printf("Is4GVliad == 0\n");
+Bdgpsdec.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf)://				Is4GVliad = atoi(token);
+Hfdata.h (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):extern char Is4GVliad;//char Is4GVliad;
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):char Is4GVliad = 0;//0表示不可用  1表示可用
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf)://	printf("Is4GVliad: %d\n",Is4GVliad);
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):	if(Is4GVliad == 1)
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):			Is4GVliad = 0;
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):		Is4GVliad = 0;
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):		Is4GVliad = 0;
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):        Is4GVliad = 0;
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):		Is4GVliad = 0;
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):        Is4GVliad = 0;
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):	Is4GVliad = 1;
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):        Is4GVliad = 0;
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):        Is4GVliad = 0;
+Sms4g.c (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):	if(Is4GVliad == 0)return;
+Sms4g.h (\\ubuntu\share\i.mx6-linux-qt\imx6test\hfcode_hf):extern char Is4GVliad;

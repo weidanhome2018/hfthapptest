@@ -1,0 +1,2 @@
+arm-fsl-linux-gnueabi-gcc threads.c serialcom.c sms4g.c bdgpsdec.c vediov4l2.c -o threads  -lpthread
+
