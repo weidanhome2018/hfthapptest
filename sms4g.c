@@ -74,7 +74,7 @@ void sms4g_init()
 //		printf("4G 3\n");
 	}
 	sleep(10);
-	system("wvidial & ls"); 
+	system("wvdial & ls"); 
     /*
      * gethostbyname()返回对应于给定主机名的包含主机名字和地址信息的
      * hostent结构指针。结构的声明与gethostaddr()中一致。
